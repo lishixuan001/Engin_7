@@ -1,0 +1,59 @@
+Below are the answers for the following final exam:
+
+ - University: University of California at Berkeley
+ - Class: Engineering 7 (Introduction to Programming for Scientists and Engineers)
+ - Semester: Spring 2016
+ - Final Exam Date: May 10th 2016
+ - Final Exam Version: 389654
+
+Question  Answer
+1         D
+2         D
+3         C
+4         E
+5         D
+6         D
+7         C
+8         D
+9         A
+10        E
+11        E
+12        C
+13        C
+14        C
+15        D
+16        D
+17        B
+18        E
+19        D
+20        D
+21        D
+22        B
+23        E
+24        D
+25        A
+26        B
+27        B
+28        A
+29        A
+30        D
+31        A
+32        C
+33        A
+34        C
+35        B
+36        B
+37        C
+38        D
+39        A
+40        C
+41        D
+42        C
+43        C
+44        B
+45        B
+46        D
+47        B
+48        A
+49        C
+50        B
